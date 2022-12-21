@@ -11,3 +11,4 @@
 [Prototype](https://medium.com/@estebanthi/prototype-design-pattern-in-python-b4c3b83243d8)
 
 [Adapter](https://medium.com/@estebanthi/adapter-design-pattern-in-python-47a769f9300)
+[Bridge](https://medium.com/@estebanthi/bridge-design-pattern-in-python-4194b88a9670)
