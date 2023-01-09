@@ -15,3 +15,4 @@
 - [Adapter](https://medium.com/@estebanthi/adapter-design-pattern-in-python-47a769f9300)
 - [Bridge](https://medium.com/@estebanthi/bridge-design-pattern-in-python-4194b88a9670)
 - [Composite](https://medium.com/@estebanthi/composite-design-pattern-in-python-dad46ceafac6)
+- [Decorator](https://medium.com/@estebanthi/decorator-design-pattern-in-python-60fba6b69dd0)
