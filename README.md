@@ -19,3 +19,6 @@
 - [Facade](https://medium.com/@estebanthi/facade-pattern-in-python-40667a9b76c5)
 - [Flyweight](https://medium.com/@estebanthi/flyweight-design-pattern-in-python-3a387ee67487)
 - [Proxy](https://medium.com/@estebanthi/the-proxy-pattern-in-python-13c39d1b660a)
+
+## Behavioral Patterns
+- [Chain of Responsibility](https://medium.com/@estebanthi/the-chain-of-responsibility-pattern-in-python-7706ac6b3743)
