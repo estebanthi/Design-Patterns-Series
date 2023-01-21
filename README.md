@@ -17,3 +17,4 @@
 - [Composite](https://medium.com/@estebanthi/composite-design-pattern-in-python-dad46ceafac6)
 - [Decorator](https://medium.com/@estebanthi/decorator-design-pattern-in-python-60fba6b69dd0)
 - [Facade](https://medium.com/@estebanthi/facade-pattern-in-python-40667a9b76c5)
+- [Flyweight](https://medium.com/@estebanthi/flyweight-design-pattern-in-python-3a387ee67487)
