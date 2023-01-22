@@ -22,3 +22,4 @@
 
 ## Behavioral Patterns
 - [Chain of Responsibility](https://medium.com/@estebanthi/the-chain-of-responsibility-pattern-in-python-7706ac6b3743)
+- [Command](https://medium.com/@estebanthi/command-pattern-in-python-ff12f98bca8f)
